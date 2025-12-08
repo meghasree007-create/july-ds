@@ -1,7 +1,9 @@
-def add():
-    {
-      a,b = 2,5  
-      
+def add(a,b):
+    
       return a+b
 
-    }
+    
+
+
+def sub(x,y):
+    return x-y
